@@ -72,7 +72,26 @@
 
 
 ###
+<br>
+<br>
 
+<table align="center">
+<tr>
+<td>
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arianeslf&theme=merko&hide_border=true" />
+
+</td>
+<td>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianeslf&theme=merko&show_icons=true&hide_border=true&layout=compact" />
+
+</td>
+</tr>
+</table>
+
+<br>
+<br>
 <br clear="both">
 
 <div>
