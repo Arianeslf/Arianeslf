@@ -51,7 +51,7 @@
 
 ###
 
-<p align="center">Entre em Contato</p>
+<p align="left">🌿 Entre em Contato</p>
 
 ###
 
