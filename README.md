@@ -2,15 +2,22 @@
   <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=42&fontAlign=50&fontAlignY=50&strokeWidth=26&animation=twinkling&descSize=72&descAlign=50&descAlignY=50&textBg=false&color=556B2F"  />
 </div>
 
+<p align="center">
+  <a href="https://git.io/typing-svg">
+    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=700&size=21&duration=4998&pause=1000&color=158A00&center=true&vCenter=true&width=435&lines=Opa!+Seja+bem-vindo.;Eu+sou+a+Ariane+Silvestre!!+rs;Sou+Desenvolvedora+Web+em+forma%C3%A7%C3%A3o." />
+  </a>
+</p>
+
+
+###
+
+<h3 align="center">🧩Tecnologias Mais Usadas</h3>
+
 ###
 
 <br clear="both">
 
 <img align="right" height="361" src="https://www.image2url.com/r2/default/gifs/1781555613343-db7a9dc7-80e3-4424-8ccf-97d6b23ad40a.gif"  />
-
-###
-
-<h2 align="center">🧩Tecnologias Mais Usadas</h2>
 
 ###
 
@@ -41,6 +48,10 @@
   <img width="16" />
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
 </div>
+
+###
+
+<p align="center">Entre em Contato</p>
 
 ###
 
