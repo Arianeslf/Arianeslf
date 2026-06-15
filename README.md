@@ -90,8 +90,6 @@
 </tr>
 </table>
 
-<br>
-<br>
 <br clear="both">
 
 <div>
