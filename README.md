@@ -13,11 +13,11 @@
 
 <h3 align="left">🧩Tecnologias Mais Usadas</h3>
 
-###
+### 
 
 <br clear="both">
 
-<img align="right" height="361" src="https://www.image2url.com/r2/default/gifs/1781555613343-db7a9dc7-80e3-4424-8ccf-97d6b23ad40a.gif"  />
+<img data-importer="image" align="right" height="361" src="https://www.image2url.com/r2/default/gifs/1782516340748-239d0a63-7ebd-419f-8fb8-9a0cdc0d7a35.gif"  />
 
 ###
 
