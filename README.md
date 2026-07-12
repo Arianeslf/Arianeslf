@@ -1,12 +1,19 @@
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=130&section=header&reversal=false&fontSize=42&fontAlign=50&fontAlignY=50&strokeWidth=26&animation=twinkling&descSize=72&descAlign=50&descAlignY=50&textBg=false&color=7B4F2C"  />
+<div align="center">
+  <img
+    src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:0d0b1f,30:17123b,60:312e81,80:5b21b6,100:7c3aed&text=Ariane%20Silvestre&textBg=false&fontColor=A855F7&fontSize=65&fontAlignY=38&animation=fadeIn&desc=Estudante%20de%20Engenharia%20de%20Software%20%7C%20Desenvolvedora%20em%20formação&descAlignY=58"
+    width="100%"
+    alt="Cabeçalho do perfil de Ariane Silvestre"
+  />
 </div>
 
-<p align="center">
+<div align="center">
   <a href="https://git.io/typing-svg">
-    <img src="https://readme-typing-svg.demolab.com?font=Poppins&weight=500&size=23&duration=4998&pause=1000&color=158A00&center=true&vCenter=true&width=700&lines=Opa!+Seja+bem-vindo.;Eu+sou+a+Ariane+Silvestre!!+rs;Sou+Desenvolvedora+Web+em+forma%C3%A7%C3%A3o." />
+    <img
+      src="https://readme-typing-svg.demolab.com?font=JetBrains+Mono&weight=700&size=22&duration=2800&pause=900&color=7541FF&center=true&vCenter=true&multiline=true&width=800&height=100&lines=%F0%9F%91%8B+Ol%C3%A1!+Eu+sou+a+Ariane+Silvestre;%F0%9F%92%BB+Estudante+de+Engenharia+de+Software;+Transformando+aprendizado+em+projetos+reais"
+      alt="Apresentação de Ariane Silvestre"
+    />
   </a>
-</p>
+</div>
 
 
 ###
