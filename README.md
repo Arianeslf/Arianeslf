@@ -56,3 +56,40 @@
 </p>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<!-- Seção Sobre Mim -->
+<h2 align="center">
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="28"
+  />
+  &nbsp;╔═══ Sobre Mim ═══╗&nbsp;
+  <img
+    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
+    width="28"
+  />
+</h2>
+
+<br>
+
+<img
+  align="right"
+  alt="Animação de desenvolvimento"
+  width="360"
+  src="https://www.image2url.com/r2/default/gifs/1783897893246-c1701194-1dee-4ebe-923f-145ed57d67c2.gif"
+/>
+
+```yaml
+┌────────────────────────────────────────────┐
+│       ARIANE SILVESTRE  •  DEV             │
+├────────────────────────────────────────────┤
+│  Perfil  : Desenvolvedora em formação      │
+│  Curso   : Engenharia de Software          │
+│  Foco    : Desenvolvimento Web             │
+│  Status  : Buscando oportunidades 🟢       │
+│  Paixão  : Código · Design · Aprendizado   │
+└────────────────────────────────────────────┘
+```
+
+<br clear="both">
+<br>
