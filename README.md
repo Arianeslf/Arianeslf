@@ -16,90 +16,41 @@
 </div>
 
 
-###
 
-<h3 align="left">🧩Tecnologias Mais Usadas</h3>
 
-### 
-
-<br clear="both">
-
-<img data-importer="image" align="right" height="361" src="https://www.image2url.com/r2/default/gifs/1782516340748-239d0a63-7ebd-419f-8fb8-9a0cdc0d7a35.gif"  />
-
-###
+<br>
 
 <div align="center">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/figma/figma-original.svg" height="60" alt="figma logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="60" alt="html5 logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg" height="60" alt="css logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=js" height="60" alt="javascript logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="60" alt="python logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/react/61DAFB" height="60" alt="react logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="60" alt="git logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="60" alt="java logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/trello/0052CC" height="60" alt="trello logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vscode/vscode-original.svg" height="60" alt="vscode logo"  />
-  <img width="16" />
-  <img src="https://skillicons.dev/icons?i=vite" height="60" alt="vite logo"  />
-  <img width="16" />
-  <img src="https://cdn.simpleicons.org/mysql/4479A1" height="60" alt="mysql logo"  />
-  <img width="16" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/nodejs/nodejs-original.svg" height="60" alt="nodejs logo"  />
+  <img
+    src="https://www.image2url.com/r2/default/gifs/1783897696169-2d0d995e-2c0b-4aab-8f46-2375b43c7ee3.gif"
+    alt="Animação de Ariane Silvestre"
+    width="300"
+  />
 </div>
 
-###
-
-<p align="left">🌿 Entre em Contato</p>
-
-###
-
-<div align="center">
-  <a href="https://www.linkedin.com/in/ariane-silvestre-maira-632734236/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/linkedin/default.svg" width="70" height="25" alt="linkedin logo"  />
-  </a>
-  <a href="https://discord.com/users/1104838588706865255" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/discord/default.svg" width="70" height="25" alt="discord logo"  />
-  </a>
-  <a href="https://www.instagram.com/ariaxz.m/" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/instagram/default.svg" width="70" height="25" alt="instagram logo"  />
-  </a>
-  <a href="arianesilvestremaira@gmail.com" target="_blank">
-    <img src="https://raw.githubusercontent.com/maurodesouza/profile-readme-generator/master/src/assets/icons/social/gmail/default.svg" width="70" height="25" alt="gmail logo"  />
-  </a>
-</div>
-
-###
 <br>
 <br>
 
-<table align="center">
-<tr>
-<td>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=Arianeslf&theme=merko&hide_border=true" />
-
-</td>
-<td>
-
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Arianeslf&theme=merko&show_icons=true&hide_border=true&layout=compact" />
-
-</td>
-</tr>
-</table>
-
-<br clear="both">
-
-<div>
-  <img style="100%" src="https://capsule-render.vercel.app/api?type=waving&height=133&section=footer&reversal=false&fontSize=42&fontAlign=50&fontAlignY=50&strokeWidth=26&animation=twinkling&descSize=72&descAlign=50&descAlignY=50&textBg=false&color=556B2F"  />
-</div>
-
-###
+<p align="center">
+  <a href="https://github.com/Arianeslf">
+    <img
+      src="https://komarev.com/ghpvc/?username=Arianeslf&label=Visualizações&color=7541ff&style=for-the-badge"
+      alt="Visualizações do perfil"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Arianeslf?tab=followers">
+    <img
+      src="https://img.shields.io/github/followers/Arianeslf?style=for-the-badge&color=5b21b6&labelColor=17123b&label=Seguidores&logo=github"
+      alt="Seguidores"
+    />
+  </a>
+  &nbsp;&nbsp;&nbsp;
+  <a href="https://github.com/Arianeslf?tab=repositories">
+    <img
+      src="https://img.shields.io/github/stars/Arianeslf?affiliations=OWNER&style=for-the-badge&color=7541ff&labelColor=17123b&label=Estrelas&logo=github"
+      alt="Estrelas"
+    />
+  </a>
+</p>
