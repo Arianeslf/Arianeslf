@@ -148,7 +148,6 @@
 <br>
 <h2 align="center">Estatísticas do GitHub</h2>
 
-<br>
 
 <p align="center">
   <img
