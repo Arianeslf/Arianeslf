@@ -103,3 +103,49 @@
 <br>
 
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br>
+
+<div align="center">
+
+## ⚪ Conheça meu **Portfólio** 🟣
+
+<p>
+  Veja os projetos que desenvolvi durante minha trajetória acadêmica,
+  cursos e estudos em programação.
+</p>
+
+<a href="https://ariane-dev.vercel.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/ACESSAR%20MEU%20PORTFÓLIO-7541FF?style=for-the-badge&logo=vercel&logoColor=FFFFFF"
+    alt="Acessar o portfólio de Ariane Silvestre"
+  />
+</a>
+
+<br>
+<br>
+
+<a href="https://ariane-dev.vercel.app/" target="_blank">
+  <img
+    src="https://img.shields.io/badge/PROJETOS-FFFFFF?style=flat-square&logo=github&logoColor=7541FF&labelColor=FFFFFF&color=7541FF"
+    alt="Projetos"
+  />
+</a>
+&nbsp;
+<a href="https://ariane-dev.vercel.app/#about" target="_blank">
+  <img
+    src="https://img.shields.io/badge/SOBRE%20MIM-7541FF?style=flat-square&logoColor=FFFFFF"
+    alt="Sobre mim"
+  />
+</a>
+&nbsp;
+<a href="https://ariane-dev.vercel.app/#contact" target="_blank">
+  <img
+    src="https://img.shields.io/badge/CONTATO-FFFFFF?style=flat-square&logoColor=7541FF&labelColor=FFFFFF&color=7541FF"
+    alt="Contato"
+  />
+</a>
+
+</div>
+
+<br>
