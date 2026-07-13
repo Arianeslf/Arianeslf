@@ -146,6 +146,56 @@
   />
 </a>
 
+<br>
+<br>
+
+<h2 align="center">Estatísticas do GitHub</h2>
+
+<br>
+
+<div align="center">
+  <img
+    src="https://www.image2url.com/r2/default/gifs/1783902629510-192f96a1-3b8f-4cd4-929f-b33f01c55bbd.gif"
+    width="400"
+    height="210"
+    alt="Animação"
+  />
+  &nbsp;&nbsp;
+  <a href="https://github.com/Arianeslf">
+    <img
+      src="https://streak-stats.demolab.com?user=Arianeslf&locale=pt_BR&background=0D1117&border=312E81&stroke=7541FF&ring=A855F7&fire=FACC15&currStreakNum=FFFFFF&sideNums=FDE047&currStreakLabel=A855F7&sideLabels=C4B5FD&dates=9CA3AF"
+      width="480"
+      height="210"
+      alt="Sequência de contribuições de Ariane"
+    />
+  </a>
+</div>
+
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Arianeslf?tab=repositories">
+  </a>
+</div>
+
+<br>
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
+
+<br>
+
+<h2 align="center">Gráfico de Contribuições</h2>
+
+<br>
+
+<div align="center">
+  <a href="https://github.com/Arianeslf">
+    <img
+      width="95%"
+      src="https://github-readme-activity-graph.vercel.app/graph?username=Arianeslf&bg_color=0D1117&color=FACC15&line=7541FF&point=FDE047&area=true&area_color=5B21B6&hide_border=false&border_color=312E81&title_color=A855F7&custom_title=Contribui%C3%A7%C3%B5es%20de%20Ariane"
+      alt="Gráfico de contribuições de Ariane Silvestre"
+    />
+  </a>
 </div>
 
 <br>
