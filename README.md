@@ -59,15 +59,7 @@
 
 <!-- Seção Sobre Mim -->
 <h2 align="center">
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="28"
-  />
   &nbsp;╔═══ Sobre Mim ═══╗&nbsp;
-  <img
-    src="https://media.giphy.com/media/hvRJCLFzcasrR4ia7z/giphy.gif"
-    width="28"
-  />
 </h2>
 
 <br>
@@ -86,7 +78,7 @@
 │  Perfil  : Desenvolvedora em formação      │
 │  Curso   : Engenharia de Software          │
 │  Foco    : Desenvolvimento Web             │
-│  Status  : Buscando oportunidades 🟢       │
+│  Status  : Buscando oportunidades          │
 │  Paixão  : Código · Design · Aprendizado   │
 └────────────────────────────────────────────┘
 ```
