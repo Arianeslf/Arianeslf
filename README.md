@@ -146,26 +146,21 @@
   />
 </a>
 <br>
-<br>
-<br>
-
 <h2 align="center">Estatísticas do GitHub</h2>
 
+<br>
 
-<div align="center">
+<p align="center">
   <img
     src="https://www.image2url.com/r2/default/gifs/1783902629510-192f96a1-3b8f-4cd4-929f-b33f01c55bbd.gif"
-  />
-  &nbsp;&nbsp;
-  <a href="https://github.com/Arianeslf">
-    <img
+    width="38%"
+    alt="Animação"
+  />&nbsp;&nbsp;<a href="https://github.com/Arianeslf"><img
       src="https://streak-stats.demolab.com?user=Arianeslf&locale=pt_BR&background=00000000&hide_border=true&stroke=7541FF&ring=A855F7&fire=FACC15&currStreakNum=FFFFFF&sideNums=FDE047&currStreakLabel=A855F7&sideLabels=C4B5FD&dates=9CA3AF"
-      width="480"
-      height="210"
+      width="55%"
       alt="Sequência de contribuições de Ariane"
-    />
-  </a>
-</div>
+    /></a>
+</p>
 
 <br>
 
