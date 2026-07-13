@@ -83,5 +83,23 @@
 └────────────────────────────────────────────┘
 ```
 
-<br clear="both">
+
+### 🟣 &nbsp;Quem sou eu?
+
+<p align="left">
+  Sou <strong>Ariane Silvestre</strong>, estudante de Engenharia de Software e
+  desenvolvedora em formação. Gosto de transformar o que aprendo em projetos
+  práticos, explorando desenvolvimento web, banco de dados, inteligência
+  artificial e automação de processos.
+</p>
+
+- ⚪ &nbsp;**Atualmente aprendendo:** Java e SQL.
+- 🟣 &nbsp;**Quero colaborar em:** Projetos web, acadêmicos e de código aberto.
+- 🟡 &nbsp;**Conhecimentos:** HTML, CSS, JavaScript, React, Git e GitHub.
+- ⚪ &nbsp;**Objetivo para 2026:** Aprimorar minhas habilidades e conquistar uma oportunidade de estágio.
+- 🟣 &nbsp;**Interesses:** Desenvolvimento web, interfaces, dados e automação.
+- 🟡 &nbsp;**Curiosidade:** Gosto de ajustar os detalhes visuais até que tudo fique bem alinhado.
+
 <br>
+
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%"/>
